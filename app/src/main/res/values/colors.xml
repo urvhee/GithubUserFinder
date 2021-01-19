@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00599F</color>
+    <color name="colorPrimaryDark">#00599F</color>
+    <color name="colorAccent">#FF7200</color>
+
+
+    <!-- Brand Guideline Color -->
+    <color name="primaryDarkBlue">#00599F</color>
+    <color name="primaryOrange">#FF7200</color>
+
+    <!-- UI Guideline Color -->
+    <color name="secondBlue">#1694F6</color>
+    <color name="secondOrange">#FDCB04</color>
+    <color name="primaryRed">#F20000</color>
+    <color name="primaryGreen">#74D351</color>
+
+    <!-- UI Guideline Color -->
+    <color name="primaryBlack">#222222</color>
+    <color name="primaryGrey">#888888</color>
+    <color name="primaryWhite">#FFFFFF</color>
+    <color name="secondGrey">#DDDDDD</color>
+    <color name="thirdGrey">#F7F7F7</color>
+</resources>
